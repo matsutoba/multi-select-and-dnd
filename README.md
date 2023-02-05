@@ -1,4 +1,4 @@
-# multi selection and drag and drop
+# Multiple Selection and Drag and Drop in React
 
 Select a range of multiple objects in React and drag and drop them.
 
