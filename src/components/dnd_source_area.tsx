@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef, useContext, useMemo } from 'react'
+import React, { useEffect, useState, useRef, useContext } from 'react'
 import styled from 'styled-components'
 import { Box } from './box'
 import Selecto, { OnSelect, OnDragStart, OnSelectEnd } from 'react-selecto'

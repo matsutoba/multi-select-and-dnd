@@ -1,4 +1,3 @@
-import { classes } from './../../node_modules/@types/istanbul-lib-coverage/index.d'
 import { Rectangle, Position, Box } from '../types'
 import { DRAG_OBJECT_SIZE } from '../constants'
 
